@@ -198,6 +198,7 @@
             this.cboHoTen.Name = "cboHoTen";
             this.cboHoTen.Size = new System.Drawing.Size(313, 24);
             this.cboHoTen.TabIndex = 6;
+            this.cboHoTen.Click += new System.EventHandler(this.cboHoTen_Click_1);
             // 
             // dtpNgayMuon
             // 

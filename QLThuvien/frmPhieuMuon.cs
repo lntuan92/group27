@@ -270,5 +270,16 @@ namespace QLThuvien
             frmDocgia frm = new frmDocgia();
             frm.Show();
         }
+
+        private void cboHoTen_Click_1(object sender, EventArgs e)
+        {
+            DataTable dt = db.Docbang("Select * from docgia");
+            cboHoTen.DataSource = dt;
+            cboHoTen.DisplayMember = "HoTenDocGia";
+            cboHoTen.ValueMember = "MaDocGia";
+
+            if (cboHoTen.Items.Count > 0)
+                cboHoTen.SelectedIndex = 0;
+        }
     }
 }
