@@ -83,7 +83,7 @@ namespace QLThuvien
             {
                 SqlCommand cmd = new SqlCommand("uspThemDocGia", cn);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.Add(new SqlParameter("@fullname", txtMaDG.Text));
+                cmd.Parameters.Add(new SqlParameter("@fullname", txtHoten.Text));
                 cmd.Parameters.Add(new SqlParameter("@birthday", dtpNgaySinh.Value));
                 cmd.Parameters.Add(new SqlParameter("@add", txtDiaChi.Text));
                 cmd.Parameters.Add(new SqlParameter("@mail", txtEmail.Text));
