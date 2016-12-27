@@ -1,0 +1,58 @@
+C:\QLthuvien\QLThuvien\bin\Debug\QLThuvien.exe
+C:\QLthuvien\QLThuvien\bin\Debug\QLThuvien.pdb
+C:\QLthuvien\QLThuvien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\QLthuvien\QLThuvien\obj\x86\Debug\QLThuvien.Properties.Resources.resources
+C:\QLthuvien\QLThuvien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\QLthuvien\QLThuvien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\QLthuvien\QLThuvien\obj\x86\Debug\QLThuvien.exe
+C:\QLthuvien\QLThuvien\obj\x86\Debug\QLThuvien.pdb
+C:\QLthuvien\QLThuvien\obj\x86\Debug\QLThuvien.frmBangcap.resources
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.exe
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.pdb
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\bin\Debug\QLThuvien.exe
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\bin\Debug\QLThuvien.pdb
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.frmBangcap.resources
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.frmDocgia.resources
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.Properties.Resources.resources
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.csprojResolveAssemblyReference.cache
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.csproj.GenerateResource.Cache
+E:\Truong ITC\MonTHCNPM\QLThuvien2014\QLThuvien\obj\x86\Debug\QLThuvien.frmNhanvien.resources
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.exe
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.pdb
+C:\QLThuvienITC\bin\Debug\QLThuvien.exe
+C:\QLThuvienITC\bin\Debug\QLThuvien.pdb
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.csprojResolveAssemblyReference.cache
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.frmBangcap.resources
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.frmDocgia.resources
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.frmNhanvien.resources
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.Properties.Resources.resources
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.csproj.GenerateResource.Cache
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.frmCTPhieumuon.resources
+C:\QLThuvienITC\obj\x86\Debug\QLThuvien.frmPhieumuon.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.exe
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.pdb
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\bin\Debug\QLThuvien.exe
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\bin\Debug\QLThuvien.pdb
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.frmBangcap.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.frmCTPhieumuon.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.frmDocgia.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.frmNhanvien.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.frmPhieumuon.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\QLThuvien.Properties.Resources.resources
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Truong ITC\MonTHCNPM\QLThuvienITC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.exe
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.pdb
+D:\LTCSDL\QLThuvienITC\bin\Debug\QLThuvien.exe
+D:\LTCSDL\QLThuvienITC\bin\Debug\QLThuvien.pdb
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.csprojResolveAssemblyReference.cache
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmCTPhieumuon.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmDocgia.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmNhanvien.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmPhieumuon.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.Properties.Resources.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.csproj.GenerateResource.Cache
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmMenu.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmSach.resources
+D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmLogin.resources
