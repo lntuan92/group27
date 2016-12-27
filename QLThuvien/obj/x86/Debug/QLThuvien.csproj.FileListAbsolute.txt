@@ -56,3 +56,17 @@ D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.csproj.GenerateResource.Cache
 D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmMenu.resources
 D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmSach.resources
 D:\LTCSDL\QLThuvienITC\obj\x86\Debug\QLThuvien.frmLogin.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\bin\Debug\QLThuvien.exe
+C:\Users\Admin\Desktop\lntuan\QLThuvien\bin\Debug\QLThuvien.pdb
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmCTPhieumuon.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmDocgia.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmLogin.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmMenu.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmNhanvien.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmPhieumuon.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.frmSach.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.Properties.Resources.resources
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.exe
+C:\Users\Admin\Desktop\lntuan\QLThuvien\obj\x86\Debug\QLThuvien.pdb
