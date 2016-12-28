@@ -85,7 +85,7 @@ namespace QLThuvien
         {
             if (lsvPhieuMuon.SelectedIndices.Count > 0)
             {
-                DialogResult dr = MessageBox.Show("Bạn có chắc xóa không?", "Xóa bằng cấp", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                DialogResult dr = MessageBox.Show("Bạn có chắc xóa không?", "Xóa phiếu", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (dr == DialogResult.Yes)
                 {
                     string mapm = lsvPhieuMuon.SelectedItems[0].SubItems[0].Text;

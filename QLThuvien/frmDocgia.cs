@@ -149,15 +149,18 @@ namespace QLThuvien
             connect();
             try
             {
-                DialogResult dr = MessageBox.Show("Bạn có chắc xóa không?", "Xóa đọc giả", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                if (dr == DialogResult.Yes)
+                if (txtMaDG.Text != "")
                 {
-                    SqlCommand cmd = new SqlCommand("uspXoaDG", cn);
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@id", txtMaDG.Text);
-                    cmd.ExecuteNonQuery();
-                    MessageBox.Show("Xóa thành công !");
-                    dgvDocGia.DataSource = LayDSDG();
+                    DialogResult dr = MessageBox.Show("Bạn có chắc xóa không?", "Xóa đọc giả", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (dr == DialogResult.Yes)
+                    {
+                        SqlCommand cmd = new SqlCommand("uspXoaDG", cn);
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@id", txtMaDG.Text);
+                        cmd.ExecuteNonQuery();
+                        MessageBox.Show("Xóa thành công !");
+                        dgvDocGia.DataSource = LayDSDG();
+                    }
                 }
             }
             catch (SqlException ex)

@@ -111,7 +111,7 @@
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(19, 10);
+            this.btnThem.Location = new System.Drawing.Point(24, 10);
             this.btnThem.Margin = new System.Windows.Forms.Padding(4);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(92, 47);
@@ -163,7 +163,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(23, 89);
+            this.label8.Location = new System.Drawing.Point(8, 88);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(51, 17);
@@ -173,7 +173,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(23, 55);
+            this.label12.Location = new System.Drawing.Point(8, 57);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(71, 17);
@@ -236,10 +236,10 @@
             // dgvNhanVien
             // 
             this.dgvNhanVien.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvNhanVien.Location = new System.Drawing.Point(53, 300);
+            this.dgvNhanVien.Location = new System.Drawing.Point(144, 293);
             this.dgvNhanVien.Name = "dgvNhanVien";
             this.dgvNhanVien.RowTemplate.Height = 24;
-            this.dgvNhanVien.Size = new System.Drawing.Size(821, 158);
+            this.dgvNhanVien.Size = new System.Drawing.Size(689, 158);
             this.dgvNhanVien.TabIndex = 25;
             // 
             // frmNhanvien

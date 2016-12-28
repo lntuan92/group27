@@ -83,7 +83,7 @@ namespace QLThuvien
                     SqlCommand cmd = new SqlCommand("uspUpdateNV", cn);
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.AddWithValue("@id", txtMaNV.Text);
-                    cmd.Parameters.AddWithValue("@phone", txtHoten.Text);
+                    cmd.Parameters.AddWithValue("@phone", txtDienThoai.Text);
                     cmd.Parameters.AddWithValue("@BirthDay", dtpNgaySinh.Value);
                     cmd.Parameters.AddWithValue("@add", txtDiaChi.Text);
                     cmd.Parameters.AddWithValue("fullname", txtHoten.Text);
@@ -93,7 +93,7 @@ namespace QLThuvien
                 }
                 else
                 {
-                    MessageBox.Show("Bạn chưa nhập mã đọc giả cần sửa !");
+                    MessageBox.Show("Bạn chưa nhập mã nhân viên cần sửa !");
                 }
             }
             catch (SqlException ex)
@@ -136,15 +136,18 @@ namespace QLThuvien
             connect();
             try
             {
-                DialogResult dr = MessageBox.Show("Bạn có chắc xóa không?", "Xóa nhân viên", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                if (dr == DialogResult.Yes)
+                if (txtMaNV.Text != "")
                 {
-                    SqlCommand cmd = new SqlCommand("uspXoaNV", cn);
-                    cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@id", txtMaNV.Text);
-                    cmd.ExecuteNonQuery();
-                    MessageBox.Show("Xóa thành công !");
-                    dgvNhanVien.DataSource = getEmp();
+                    DialogResult dr = MessageBox.Show("Bạn có chắc xóa không?", "Xóa nhân viên", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (dr == DialogResult.Yes)
+                    {
+                        SqlCommand cmd = new SqlCommand("uspXoaNV", cn);
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@id", txtMaNV.Text);
+                        cmd.ExecuteNonQuery();
+                        MessageBox.Show("Xóa thành công !");
+                        dgvNhanVien.DataSource = getEmp();
+                    }
                 }
             }
             catch (SqlException ex)

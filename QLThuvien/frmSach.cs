@@ -142,8 +142,6 @@ namespace QLThuvien
         private void btnSua_Click(object sender, EventArgs e)
         {
             connect();
-
-            
             try
             {
                 if (txtMaSach.Text != "")
