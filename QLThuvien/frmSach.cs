@@ -148,6 +148,7 @@ namespace QLThuvien
                 {
                     SqlCommand cmd = new SqlCommand("uspUpdateBook", cn);
                     cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@id", txtTenSach.Text);
                     cmd.Parameters.AddWithValue("@BookName", txtTenSach.Text);
                     cmd.Parameters.AddWithValue("@Author", txtTacGia.Text);
                     cmd.Parameters.AddWithValue("@NamXB", txtNamXB.Text);
